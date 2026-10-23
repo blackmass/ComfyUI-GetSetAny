@@ -7,3 +7,4 @@
 - 'Mute' and 'bypass' are ignored.
 - If priorities are equal, the node at a higher position takes precedence; if those are also the same, the node on the left is prioritized.
 
+# Created using Claude; I do not claim copyright.
